@@ -6,6 +6,9 @@
 [Request Support](https://forms.gle/1gniuYu3PuSz8CM2A)
 
 
+### Terms of Use
+[Licensed Application End User License Agreement (“Standard EULA”)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
+
 ### Privacy Policy
 PollenForecast is committed to serving you an ad-free environment and as such it has a limited free tier and a more elaborate paid tier. We do not collect or sell your information as we intend to cover all usage and pollen data costs with the paid tier.
 
