@@ -7,10 +7,11 @@
 
 
 ### Privacy Policy
-PollenForecast is committed to serving you an ad-free environment and as such it has a limited free tier and a more elaborate paid tier. We do not collect or sell your information as we intend to cover all usage and pollen data costs with the the paid tier.
+PollenForecast is committed to serving you an ad-free environment and as such it has a limited free tier and a more elaborate paid tier. We do not collect or sell your information as we intend to cover all usage and pollen data costs with the paid tier.
 
-For some app functionality we do need a device identifyier in combination with a location. This applies to the following functionality:
+For some app functionality we do need to retrieve a device identifyier in combination with a location. This applies to the following functionality:
 - Daily push-notifications in case of elevated pollen levels at your chosen location
+- Manual pollen data retrieval
 
 #### Data collection 
 ##### Location data
@@ -28,10 +29,10 @@ Your data is transferred between your device and our server over an encrypted HT
 #### Data storage
 The set of your last requested location and your device identifier is stored for a maximum of 7 days after either:
 - Your subscription ends
-- Your device last request for pollen data
+- Your device's last request for pollen data
 
 ##### Encryption at rest
 Your data is stored according to industry standard best practices at a certified cloud provider. 
 
 ##### Data anonimity
-Your data does not specify if it was derived from the device's location or manually and is not tied to anything other than your unique and anonymous device identifier. 
+Your location data does not specify if it was derived from the device's location or manually entered and is not tied to anything other than your unique and anonymous device identifier. 
