@@ -3,7 +3,8 @@
 ### Graphics
 <div>Icons made by: <br> <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">flaticon</a></div>
 and
-[Rutger van Brouwershaven](https://www.rutgervanbrouwershaven.com)
+[Request Support](https://forms.gle/1gniuYu3PuSz8CM2A)
+<!-- [Rutger van Brouwershaven](https://www.rutgervanbrouwershaven.com) -->
 
 
 ### PollenForecast App Support
