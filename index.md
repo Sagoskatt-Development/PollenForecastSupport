@@ -1,11 +1,10 @@
 ## PollenForecast App
 
 ### Graphics
-<div>Icons made by: <br> <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">flaticon</a> </div>
 
-and
-
-[Rutger van Brouwershaven](https://www.rutgervanbrouwershaven.com)
+Icons made by:
+- [Freepik](https://www.flaticon.com/authors/freepik) from [Flaticon](https://www.flaticon.com/)
+- [Rutger van Brouwershaven](https://www.rutgervanbrouwershaven.com)
 
 
 ### PollenForecast App Support
