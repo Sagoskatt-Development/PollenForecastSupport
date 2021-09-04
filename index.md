@@ -4,7 +4,7 @@
 
 Icons made by:
 - [Freepik](https://www.flaticon.com/authors/freepik) from [Flaticon](https://www.flaticon.com/)
-- [Rutger van Brouwershaven](https://www.rutgervanbrouwershaven.com)
+- [Rutger van Brouwershaven](https://www.rutger.design)
 
 
 ### PollenForecast App Support
