@@ -9,7 +9,7 @@ Icons made by:
 
 ### PollenForecast App Support
 
-[Request Support](https://forms.gle/1gniuYu3PuSz8CM2A)
+[Request Support](https://forms.gle/krsdEuj6Y9T8D31k8)
 
 
 ### Terms of Use
